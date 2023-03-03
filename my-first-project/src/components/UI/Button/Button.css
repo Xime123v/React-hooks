@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.boton{
+    background-color: rgb(99, 128, 206);
+    width: 6rem;
+    height: 4rem;
+    font-size: 15px;
+    margin-top: 15px;
+}
